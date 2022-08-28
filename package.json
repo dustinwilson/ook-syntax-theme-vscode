@@ -1,0 +1,26 @@
+{
+  "name": "ook",
+  "displayName": "Ook",
+  "description": "Port of my Ook syntax theme from Atom",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ook",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ook-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "generator-code": "^1.6.14",
+    "vsce": "^2.10.2",
+    "yo": "^4.3.0"
+  }
+}
