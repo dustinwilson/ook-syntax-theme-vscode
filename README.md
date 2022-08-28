@@ -1,16 +1,5 @@
-# ook README
+# Ook Syntax Theme for Visual Studio Code
 
-## Working with Markdown
+The Ook theme is a somewhat Base16-style syntax theme that uses colors based off of a syntax theme I created for my website. The colors are chosen based upon their constrast with the editor background color. No color is too jarring or overpowering as a result.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Since Atom has been "sunset" and I have zero confidence in the attempts to keep it going I've been slowly working on porting my Ook theme to Visual Studio Code. This is the result of that endeavor. There are minor modifications and improvements since I last published an update to my Atom theme. As I try different editors out I will attempt to publish my theme.
